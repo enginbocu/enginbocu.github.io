@@ -1,1 +1,0 @@
-import{d as s,c as o,D as a,C as n,o as t}from"./index-CaiRRUwe.js";const l=s({__name:"AsideRight",props:{is_open:{type:Boolean}},setup(r){return(e,i)=>(t(),o("aside",{id:"sidebarRight",class:n({active:e.is_open})},[a(e.$slots,"default")],2))}});export{l as _};
